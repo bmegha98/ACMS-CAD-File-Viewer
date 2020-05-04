@@ -1,11 +1,16 @@
 function loadSVG() 
 {
-    var svgObject = document.getElementById('svg_object').contentDocument;
+    var object = document.getElementById('svg_object');
+    var svgObject = object.contentDocument;
+    
     var style = svgObject.createElementNS("http://www.w3.org/2000/svg", "style");
     style.textContent = '@import url("cssSVG.css");';
 
     var svg = svgObject.getElementsByTagName('svg')[0];
     svg.insertBefore(style,svg.firstChild);
+    
+    object.width = svg.getAttribute('width');
+    object.height = svg.getAttribute('height');
     
     var element = svg.getElementsByTagName('*');
     var i;
@@ -13,8 +18,11 @@ function loadSVG()
     {
         element[i].addEventListener("click", function()
         {
-            svg.getElementById(this.id).style.stroke = 'red';
-            svg.getElementById(this.id).style["stroke-width"] = "2";
+            if(svg.getElementById(this.id) != null)
+            {
+                svg.getElementById(this.id).style.stroke = 'red';
+                svg.getElementById(this.id).style["stroke-width"] = "2";
+            }
         });
     }
 }
