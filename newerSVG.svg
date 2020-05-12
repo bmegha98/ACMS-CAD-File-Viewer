@@ -1486,482 +1486,244 @@
   </g>
    
    
-   ..
+  
 
-  <g id="svg_1614">
-   <g id="svg_1439" stroke="null">
-    <rect id="svg_1409" height="101.558474" width="69.05705" y="888.106838" x="60.479793" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1410" height="101.558474" width="69.05705" y="888.064806" x="131.509899" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1411" height="101.331004" width="32.959046" y="888.064808" x="203.03327" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1412" y2="963.793568" x2="235.835368" y1="965.410552" x1="59.986528" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1413" y2="939.538804" x2="235.342103" y1="940.616794" x1="61.21969" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1414" y2="912.050072" x2="236.082" y1="912.858564" x1="58.999999" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <g id="svg_1420" stroke="null">
-     <rect id="svg_1415" height="12.396879" width="28.362716" y="890.220785" x="205.499593" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1416" height="12.396879" width="28.362716" y="891.298774" x="63.439381" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1417" height="12.396879" width="28.362716" y="891.298774" x="94.26842" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1418" height="12.396879" width="28.362716" y="890.220785" x="134.222854" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1419" height="12.396879" width="28.362716" y="890.220785" x="164.558629" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1426" stroke="null">
-     <rect id="svg_1421" height="12.396879" width="28.362716" y="914.475549" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1422" height="12.396879" width="28.362716" y="915.553538" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1423" height="12.396879" width="28.362716" y="915.553538" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1424" height="12.396879" width="28.362716" y="914.475549" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1425" height="12.396879" width="28.362716" y="914.475549" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1432" stroke="null">
-     <rect id="svg_1427" height="12.396879" width="28.362716" y="966.758039" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1428" height="12.396879" width="28.362716" y="967.836029" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1429" height="12.396879" width="28.362716" y="967.836029" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1430" height="12.396879" width="28.362716" y="966.758039" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1431" height="12.396879" width="28.362716" y="966.758039" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1438" stroke="null">
-     <rect id="svg_1433" height="12.396879" width="28.362716" y="942.503275" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1434" height="12.396879" width="28.362716" y="943.581265" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1435" height="12.396879" width="28.362716" y="943.581265" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1436" height="12.396879" width="28.362716" y="942.503275" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1437" height="12.396879" width="28.362716" y="942.503275" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_1449" stroke="null">
-    <rect id="svg_1440" height="52.712865" width="44.234324" y="929.481748" x="240.748698" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1441" height="52.712865" width="44.234324" y="929.668012" x="287.422418" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1442" height="52.712865" width="32.199985" y="929.481748" x="333.933513" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1443" height="8.19564" width="20.165649" y="977.475911" x="251.753072" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1444" height="8.19564" width="20.165649" y="978.034705" x="340.546977" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1445" height="8.19564" width="20.165649" y="977.475911" x="299.565174" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1446" height="8.19564" width="20.165649" y="931.096041" x="340.546977" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1447" height="8.19564" width="20.165649" y="931.282305" x="299.077296" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1448" height="8.19564" width="20.165649" y="930.909776" x="252.24095" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_1480" stroke="null">
-    <rect id="svg_1450" height="101.558474" width="69.05705" y="888.042036" x="786.590725" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1451" height="101.558474" width="69.05705" y="888.000004" x="857.620831" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1452" height="101.331004" width="32.959046" y="888.000006" x="929.144202" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1453" y2="963.728766" x2="961.946299" y1="965.34575" x1="786.09746" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1454" y2="939.474003" x2="961.453035" y1="940.551992" x1="787.330622" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1455" y2="911.985271" x2="962.192932" y1="912.793763" x1="785.110931" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <g id="svg_1461" stroke="null">
-     <rect id="svg_1456" height="12.396879" width="28.362716" y="890.155983" x="931.610525" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1457" height="12.396879" width="28.362716" y="891.233973" x="789.550312" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1458" height="12.396879" width="28.362716" y="891.233973" x="820.379352" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1459" height="12.396879" width="28.362716" y="890.155983" x="860.333786" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1460" height="12.396879" width="28.362716" y="890.155983" x="890.669561" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1467" stroke="null">
-     <rect id="svg_1462" height="12.396879" width="28.362716" y="914.410747" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1463" height="12.396879" width="28.362716" y="915.488736" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1464" height="12.396879" width="28.362716" y="915.488736" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1465" height="12.396879" width="28.362716" y="914.410747" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1466" height="12.396879" width="28.362716" y="914.410747" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1473" stroke="null">
-     <rect id="svg_1468" height="12.396879" width="28.362716" y="966.693237" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1469" height="12.396879" width="28.362716" y="967.771227" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1470" height="12.396879" width="28.362716" y="967.771227" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1471" height="12.396879" width="28.362716" y="966.693237" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1472" height="12.396879" width="28.362716" y="966.693237" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1479" stroke="null">
-     <rect id="svg_1474" height="12.396879" width="28.362716" y="942.438474" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1475" height="12.396879" width="28.362716" y="943.516463" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1476" height="12.396879" width="28.362716" y="943.516463" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1477" height="12.396879" width="28.362716" y="942.438474" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1478" height="12.396879" width="28.362716" y="942.438474" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_1511" stroke="null">
-    <rect id="svg_1481" height="101.558474" width="69.05705" y="888.042036" x="423.436591" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1482" height="101.558474" width="69.05705" y="888.000004" x="494.466698" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1483" height="101.331004" width="32.959046" y="888.000006" x="565.990068" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1484" y2="963.728766" x2="598.792166" y1="965.34575" x1="422.943327" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1485" y2="939.474003" x2="598.298902" y1="940.551992" x1="424.176488" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1486" y2="911.985271" x2="599.038798" y1="912.793763" x1="421.956797" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <g id="svg_1492" stroke="null">
-     <rect id="svg_1487" height="12.396879" width="28.362716" y="890.155983" x="568.456392" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1488" height="12.396879" width="28.362716" y="891.233973" x="426.396179" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1489" height="12.396879" width="28.362716" y="891.233973" x="457.225218" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1490" height="12.396879" width="28.362716" y="890.155983" x="497.179653" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1491" height="12.396879" width="28.362716" y="890.155983" x="527.515428" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1498" stroke="null">
-     <rect id="svg_1493" height="12.396879" width="28.362716" y="914.410747" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1494" height="12.396879" width="28.362716" y="915.488736" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1495" height="12.396879" width="28.362716" y="915.488736" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1496" height="12.396879" width="28.362716" y="914.410747" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1497" height="12.396879" width="28.362716" y="914.410747" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1504" stroke="null">
-     <rect id="svg_1499" height="12.396879" width="28.362716" y="966.693237" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1500" height="12.396879" width="28.362716" y="967.771227" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1501" height="12.396879" width="28.362716" y="967.771227" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1502" height="12.396879" width="28.362716" y="966.693237" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1503" height="12.396879" width="28.362716" y="966.693237" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1510" stroke="null">
-     <rect id="svg_1505" height="12.396879" width="28.362716" y="942.438474" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1506" height="12.396879" width="28.362716" y="943.516463" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1507" height="12.396879" width="28.362716" y="943.516463" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1508" height="12.396879" width="28.362716" y="942.438474" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1509" height="12.396879" width="28.362716" y="942.438474" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_1521" stroke="null">
-    <rect id="svg_1512" height="52.712865" width="44.234324" y="929.064803" x="968.110959" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1513" height="52.712865" width="44.234324" y="929.251067" x="1014.784678" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1514" height="52.712865" width="32.199985" y="929.064803" x="1061.295773" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1515" height="8.19564" width="20.165649" y="977.058966" x="979.115332" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1516" height="8.19564" width="20.165649" y="977.61776" x="1067.909237" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1517" height="8.19564" width="20.165649" y="977.058966" x="1026.927435" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1518" height="8.19564" width="20.165649" y="930.679096" x="1067.909237" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1519" height="8.19564" width="20.165649" y="930.86536" x="1026.439557" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1520" height="8.19564" width="20.165649" y="930.492831" x="979.603211" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_1531" stroke="null">
-    <rect id="svg_1522" height="52.712865" width="44.234324" y="929.481748" x="603.705514" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1523" height="52.712865" width="44.234324" y="929.668012" x="650.379233" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1524" height="52.712865" width="32.199985" y="929.481748" x="696.890328" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1525" height="8.19564" width="20.165649" y="977.475911" x="614.709887" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1526" height="8.19564" width="20.165649" y="978.034705" x="703.503792" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1527" height="8.19564" width="20.165649" y="977.475911" x="662.52199" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1528" height="8.19564" width="20.165649" y="931.096041" x="703.503792" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1529" height="8.19564" width="20.165649" y="931.282305" x="662.034111" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1530" height="8.19564" width="20.165649" y="930.909776" x="615.197765" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_1562" stroke="null">
-    <rect id="svg_1532" height="101.558474" width="69.05705" y="888.106835" x="1150.590755" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1533" height="101.558474" width="69.05705" y="888.064804" x="1221.620861" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1534" height="101.331004" width="32.959046" y="888.064805" x="1293.144232" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1535" y2="963.793566" x2="1325.94633" y1="965.41055" x1="1150.09749" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1536" y2="939.538802" x2="1325.453065" y1="940.616791" x1="1151.330652" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1537" y2="912.05007" x2="1326.192962" y1="912.858562" x1="1149.110961" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <g id="svg_1543" stroke="null">
-     <rect id="svg_1538" height="12.396879" width="28.362716" y="890.220783" x="1295.610555" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1539" height="12.396879" width="28.362716" y="891.298772" x="1153.550342" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1540" height="12.396879" width="28.362716" y="891.298772" x="1184.379382" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1541" height="12.396879" width="28.362716" y="890.220783" x="1224.333816" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1542" height="12.396879" width="28.362716" y="890.220783" x="1254.669591" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1549" stroke="null">
-     <rect id="svg_1544" height="12.396879" width="28.362716" y="914.475546" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1545" height="12.396879" width="28.362716" y="915.553536" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1546" height="12.396879" width="28.362716" y="915.553536" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1547" height="12.396879" width="28.362716" y="914.475546" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1548" height="12.396879" width="28.362716" y="914.475546" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1555" stroke="null">
-     <rect id="svg_1550" height="12.396879" width="28.362716" y="966.758037" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1551" height="12.396879" width="28.362716" y="967.836026" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1552" height="12.396879" width="28.362716" y="967.836026" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1553" height="12.396879" width="28.362716" y="966.758037" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1554" height="12.396879" width="28.362716" y="966.758037" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1561" stroke="null">
-     <rect id="svg_1556" height="12.396879" width="28.362716" y="942.503273" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1557" height="12.396879" width="28.362716" y="943.581263" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1558" height="12.396879" width="28.362716" y="943.581263" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1559" height="12.396879" width="28.362716" y="942.503273" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1560" height="12.396879" width="28.362716" y="942.503273" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_1572" stroke="null">
-    <rect id="svg_1563" height="52.712865" width="44.234324" y="929.064804" x="1331.11092" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1564" height="52.712865" width="44.234324" y="929.251069" x="1377.784639" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1565" height="52.712865" width="32.199985" y="929.064804" x="1424.295734" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1566" height="8.19564" width="20.165649" y="977.058967" x="1342.115293" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1567" height="8.19564" width="20.165649" y="977.617761" x="1430.909198" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1568" height="8.19564" width="20.165649" y="977.058967" x="1389.927396" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1569" height="8.19564" width="20.165649" y="930.679097" x="1430.909198" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1570" height="8.19564" width="20.165649" y="930.865362" x="1389.439517" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1571" height="8.19564" width="20.165649" y="930.492832" x="1342.603172" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_1603" stroke="null">
-    <rect id="svg_1573" height="101.558474" width="69.05705" y="888.106835" x="1513.590663" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1574" height="101.558474" width="69.05705" y="888.064804" x="1584.620769" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <rect id="svg_1575" height="101.331004" width="32.959046" y="888.064805" x="1656.14414" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1576" y2="963.793566" x2="1688.946238" y1="965.41055" x1="1513.097399" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1577" y2="939.538802" x2="1688.452973" y1="940.616791" x1="1514.33056" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_1578" y2="912.05007" x2="1689.19287" y1="912.858562" x1="1512.110869" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
-    <g id="svg_1584" stroke="null">
-     <rect id="svg_1579" height="12.396879" width="28.362716" y="890.220783" x="1658.610463" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1580" height="12.396879" width="28.362716" y="891.298772" x="1516.550251" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1581" height="12.396879" width="28.362716" y="891.298772" x="1547.37929" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1582" height="12.396879" width="28.362716" y="890.220783" x="1587.333725" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1583" height="12.396879" width="28.362716" y="890.220783" x="1617.669499" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1590" stroke="null">
-     <rect id="svg_1585" height="12.396879" width="28.362716" y="914.475546" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1586" height="12.396879" width="28.362716" y="915.553536" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1587" height="12.396879" width="28.362716" y="915.553536" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1588" height="12.396879" width="28.362716" y="914.475546" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1589" height="12.396879" width="28.362716" y="914.475546" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1596" stroke="null">
-     <rect id="svg_1591" height="12.396879" width="28.362716" y="966.758037" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1592" height="12.396879" width="28.362716" y="967.836026" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1593" height="12.396879" width="28.362716" y="967.836026" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1594" height="12.396879" width="28.362716" y="966.758037" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1595" height="12.396879" width="28.362716" y="966.758037" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_1602" stroke="null">
-     <rect id="svg_1597" height="12.396879" width="28.362716" y="942.503273" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1598" height="12.396879" width="28.362716" y="943.581263" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1599" height="12.396879" width="28.362716" y="943.581263" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_1600" height="12.396879" width="28.362716" y="942.503273" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_1601" height="12.396879" width="28.362716" y="942.503273" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_1613" stroke="null">
-    <rect id="svg_1604" height="52.712865" width="44.234324" y="929.064804" x="1694.110951" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1605" height="52.712865" width="44.234324" y="929.251069" x="1740.78467" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1606" height="52.712865" width="32.199985" y="929.064804" x="1787.295765" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
-    <rect id="svg_1607" height="8.19564" width="20.165649" y="977.058967" x="1705.115324" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1608" height="8.19564" width="20.165649" y="977.617761" x="1793.909229" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1609" height="8.19564" width="20.165649" y="977.058967" x="1752.927427" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1610" height="8.19564" width="20.165649" y="930.679097" x="1793.909229" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1611" height="8.19564" width="20.165649" y="930.865362" x="1752.439548" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_1612" height="8.19564" width="20.165649" y="930.492832" x="1705.603202" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
+<g id="G">
+ <g id="G-1" stroke="null">
+  <rect id="svg_1409" height="101.558474" width="69.05705" y="888.106838" x="60.479793" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1410" height="101.558474" width="69.05705" y="888.064806" x="131.509899" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1411" height="101.331004" width="32.959046" y="888.064808" x="203.03327" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1412" y2="963.793568" x2="235.835368" y1="965.410552" x1="59.986528" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1413" y2="939.538804" x2="235.342103" y1="940.616794" x1="61.21969" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1414" y2="912.050072" x2="236.082" y1="912.858564" x1="58.999999" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <g id="G-1.4" stroke="null">
+   <rect id="G-1.4E" height="12.396879" width="28.362716" y="890.220785" x="205.499593" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.4A" height="12.396879" width="28.362716" y="891.298774" x="63.439381" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.4B" height="12.396879" width="28.362716" y="891.298774" x="94.26842" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-1.4C" height="12.396879" width="28.362716" y="890.220785" x="134.222854" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.4D" height="12.396879" width="28.362716" y="890.220785" x="164.558629" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
   </g>
- 
-   <g id="svg_2438">
-   <g id="svg_2263" stroke="null">
-    <rect id="svg_2233" height="101.558474" width="69.05705" y="1028.106868" x="60.479795" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2234" height="101.558474" width="69.05705" y="1028.064837" x="131.509901" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2235" height="101.331004" width="32.959046" y="1028.064838" x="203.033272" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2236" y2="1103.793599" x2="235.83537" y1="1105.410583" x1="59.98653" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2237" y2="1079.538835" x2="235.342105" y1="1080.616825" x1="61.219692" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2238" y2="1052.050103" x2="236.082002" y1="1052.858595" x1="59.000001" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <g id="svg_2244" stroke="null">
-     <rect id="svg_2239" height="12.396879" width="28.362716" y="1030.220816" x="205.499595" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2240" height="12.396879" width="28.362716" y="1031.298805" x="63.439383" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect stroke="#7f00ff" id="svg_2241" height="12.396879" width="28.362716" y="1031.298805" x="94.268422" fill-opacity="null" stroke-width="3" fill="none"/>
-     <rect id="svg_2242" height="12.396879" width="28.362716" y="1030.220816" x="134.222857" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2243" height="12.396879" width="28.362716" y="1030.220816" x="164.558631" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2250" stroke="null">
-     <rect id="svg_2245" height="12.396879" width="28.362716" y="1054.475579" x="205.006331" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2246" height="12.396879" width="28.362716" y="1055.553569" x="62.946118" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect stroke="#7f00ff" id="svg_2247" height="12.396879" width="28.362716" y="1055.553569" x="93.775157" fill-opacity="null" stroke-width="3" fill="none"/>
-     <rect id="svg_2248" height="12.396879" width="28.362716" y="1054.475579" x="133.729592" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2249" height="12.396879" width="28.362716" y="1054.475579" x="164.065367" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2256" stroke="null">
-     <rect id="svg_2251" height="12.396879" width="28.362716" y="1106.75807" x="205.006331" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2252" height="12.396879" width="28.362716" y="1107.836059" x="62.946118" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2253" height="12.396879" width="28.362716" y="1107.836059" x="93.775157" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2254" height="12.396879" width="28.362716" y="1106.75807" x="133.729592" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2255" height="12.396879" width="28.362716" y="1106.75807" x="164.065367" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2262" stroke="null">
-     <rect id="svg_2257" height="12.396879" width="28.362716" y="1082.503306" x="205.006331" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2258" height="12.396879" width="28.362716" y="1083.581296" x="62.946118" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect stroke="#7f00ff" id="svg_2259" height="12.396879" width="28.362716" y="1083.581296" x="93.775157" fill-opacity="null" stroke-width="3" fill="none"/>
-     <rect id="svg_2260" height="12.396879" width="28.362716" y="1082.503306" x="133.729592" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2261" height="12.396879" width="28.362716" y="1082.503306" x="164.065367" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_2273" stroke="null">
-    <rect stroke="#ff0000" id="svg_2264" height="52.712865" width="44.234324" y="1069.481779" x="240.748701" fill-opacity="null" stroke-width="3" fill="#ffffff"/>
-    <rect id="svg_2265" height="52.712865" width="44.234324" y="1069.668043" x="287.42242" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2266" height="52.712865" width="32.199985" y="1069.481779" x="333.933515" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2267" height="8.19564" width="20.165649" y="1117.475942" x="251.753074" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2268" height="8.19564" width="20.165649" y="1118.034735" x="340.546979" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2269" height="8.19564" width="20.165649" y="1117.475942" x="299.565177" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2270" height="8.19564" width="20.165649" y="1071.096071" x="340.546979" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2271" height="8.19564" width="20.165649" y="1071.282336" x="299.077298" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2272" height="8.19564" width="20.165649" y="1070.909807" x="252.240953" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_2304" stroke="null">
-    <rect id="svg_2274" height="101.558474" width="69.05705" y="1028.042067" x="786.590727" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2275" height="101.558474" width="69.05705" y="1028.000035" x="857.620833" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2276" height="101.331004" width="32.959046" y="1028.000037" x="929.144204" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2277" y2="1103.728797" x2="961.946302" y1="1105.345781" x1="786.097462" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2278" y2="1079.474033" x2="961.453037" y1="1080.552023" x1="787.330624" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2279" y2="1051.985301" x2="962.192934" y1="1052.793793" x1="785.110933" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <g id="svg_2285" stroke="null">
-     <rect id="svg_2280" height="12.396879" width="28.362716" y="1030.156014" x="931.610527" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2281" height="12.396879" width="28.362716" y="1031.234004" x="789.550315" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2282" height="12.396879" width="28.362716" y="1031.234004" x="820.379354" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2283" height="12.396879" width="28.362716" y="1030.156014" x="860.333789" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2284" height="12.396879" width="28.362716" y="1030.156014" x="890.669563" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2291" stroke="null">
-     <rect id="svg_2286" height="12.396879" width="28.362716" y="1054.410778" x="931.117263" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2287" height="12.396879" width="28.362716" y="1055.488767" x="789.05705" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2288" height="12.396879" width="28.362716" y="1055.488767" x="819.886089" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2289" height="12.396879" width="28.362716" y="1054.410778" x="859.840524" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2290" height="12.396879" width="28.362716" y="1054.410778" x="890.176299" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2297" stroke="null">
-     <rect id="svg_2292" height="12.396879" width="28.362716" y="1106.693268" x="931.117263" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2293" height="12.396879" width="28.362716" y="1107.771258" x="789.05705" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2294" height="12.396879" width="28.362716" y="1107.771258" x="819.886089" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2295" height="12.396879" width="28.362716" y="1106.693268" x="859.840524" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2296" height="12.396879" width="28.362716" y="1106.693268" x="890.176299" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2303" stroke="null">
-     <rect id="svg_2298" height="12.396879" width="28.362716" y="1082.438504" x="931.117263" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2299" height="12.396879" width="28.362716" y="1083.516494" x="789.05705" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2300" height="12.396879" width="28.362716" y="1083.516494" x="819.886089" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2301" height="12.396879" width="28.362716" y="1082.438504" x="859.840524" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2302" height="12.396879" width="28.362716" y="1082.438504" x="890.176299" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_2335" stroke="null">
-    <rect id="svg_2305" height="101.558474" width="69.05705" y="1028.042067" x="423.436594" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2306" height="101.558474" width="69.05705" y="1028.000035" x="494.4667" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2307" height="101.331004" width="32.959046" y="1028.000037" x="565.990071" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2308" y2="1103.728797" x2="598.792168" y1="1105.345781" x1="422.943329" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2309" y2="1079.474033" x2="598.298904" y1="1080.552023" x1="424.176491" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2310" y2="1051.985301" x2="599.038801" y1="1052.793793" x1="421.9568" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <g id="svg_2316" stroke="null">
-     <rect id="svg_2311" height="12.396879" width="28.362716" y="1030.156014" x="568.456394" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2312" height="12.396879" width="28.362716" y="1031.234004" x="426.396181" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2313" height="12.396879" width="28.362716" y="1031.234004" x="457.225221" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2314" height="12.396879" width="28.362716" y="1030.156014" x="497.179655" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2315" height="12.396879" width="28.362716" y="1030.156014" x="527.51543" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2322" stroke="null">
-     <rect id="svg_2317" height="12.396879" width="28.362716" y="1054.410778" x="567.963129" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2318" height="12.396879" width="28.362716" y="1055.488767" x="425.902917" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2319" height="12.396879" width="28.362716" y="1055.488767" x="456.731956" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2320" height="12.396879" width="28.362716" y="1054.410778" x="496.686391" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2321" height="12.396879" width="28.362716" y="1054.410778" x="527.022165" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2328" stroke="null">
-     <rect id="svg_2323" height="12.396879" width="28.362716" y="1106.693268" x="567.963129" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2324" height="12.396879" width="28.362716" y="1107.771258" x="425.902917" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2325" height="12.396879" width="28.362716" y="1107.771258" x="456.731956" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2326" height="12.396879" width="28.362716" y="1106.693268" x="496.686391" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2327" height="12.396879" width="28.362716" y="1106.693268" x="527.022165" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2334" stroke="null">
-     <rect id="svg_2329" height="12.396879" width="28.362716" y="1082.438504" x="567.963129" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2330" height="12.396879" width="28.362716" y="1083.516494" x="425.902917" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2331" height="12.396879" width="28.362716" y="1083.516494" x="456.731956" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2332" height="12.396879" width="28.362716" y="1082.438504" x="496.686391" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2333" height="12.396879" width="28.362716" y="1082.438504" x="527.022165" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_2345" stroke="null">
-    <rect stroke="#ff0000" id="svg_2336" height="52.712865" width="44.234324" y="1069.064834" x="968.110961" fill-opacity="null" stroke-width="3" fill="#ffffff"/>
-    <rect id="svg_2337" height="52.712865" width="44.234324" y="1069.251098" x="1014.784681" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2338" height="52.712865" width="32.199985" y="1069.064834" x="1061.295776" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2339" height="8.19564" width="20.165649" y="1117.058997" x="979.115335" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2340" height="8.19564" width="20.165649" y="1117.61779" x="1067.90924" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2341" height="8.19564" width="20.165649" y="1117.058997" x="1026.927437" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2342" height="8.19564" width="20.165649" y="1070.679126" x="1067.90924" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2343" height="8.19564" width="20.165649" y="1070.865391" x="1026.439559" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2344" height="8.19564" width="20.165649" y="1070.492862" x="979.603213" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_2355" stroke="null">
-    <rect id="svg_2346" height="52.712865" width="44.234324" y="1069.481779" x="603.705516" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2347" height="52.712865" width="44.234324" y="1069.668043" x="650.379235" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2348" height="52.712865" width="32.199985" y="1069.481779" x="696.89033" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2349" height="8.19564" width="20.165649" y="1117.475942" x="614.709889" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2350" height="8.19564" width="20.165649" y="1118.034735" x="703.503794" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2351" height="8.19564" width="20.165649" y="1117.475942" x="662.521992" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2352" height="8.19564" width="20.165649" y="1071.096071" x="703.503794" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2353" height="8.19564" width="20.165649" y="1071.282336" x="662.034113" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2354" height="8.19564" width="20.165649" y="1070.909807" x="615.197768" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_2386" stroke="null">
-    <rect id="svg_2356" height="101.558474" width="69.05705" y="1028.106866" x="1150.590757" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2357" height="101.558474" width="69.05705" y="1028.064834" x="1221.620863" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2358" height="101.331004" width="32.959046" y="1028.064836" x="1293.144234" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2359" y2="1103.793596" x2="1325.946332" y1="1105.410581" x1="1150.097492" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2360" y2="1079.538833" x2="1325.453067" y1="1080.616822" x1="1151.330654" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2361" y2="1052.050101" x2="1326.192964" y1="1052.858593" x1="1149.110963" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <g id="svg_2367" stroke="null">
-     <rect id="svg_2362" height="12.396879" width="28.362716" y="1030.220813" x="1295.610557" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2363" height="12.396879" width="28.362716" y="1031.298803" x="1153.550345" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2364" height="12.396879" width="28.362716" y="1031.298803" x="1184.379384" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2365" height="12.396879" width="28.362716" y="1030.220813" x="1224.333819" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2366" height="12.396879" width="28.362716" y="1030.220813" x="1254.669593" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2373" stroke="null">
-     <rect id="svg_2368" height="12.396879" width="28.362716" y="1054.475577" x="1295.117293" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2369" height="12.396879" width="28.362716" y="1055.553566" x="1153.05708" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2370" height="12.396879" width="28.362716" y="1055.553566" x="1183.886119" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2371" height="12.396879" width="28.362716" y="1054.475577" x="1223.840554" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2372" height="12.396879" width="28.362716" y="1054.475577" x="1254.176329" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2379" stroke="null">
-     <rect id="svg_2374" height="12.396879" width="28.362716" y="1106.758067" x="1295.117293" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2375" height="12.396879" width="28.362716" y="1107.836057" x="1153.05708" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2376" height="12.396879" width="28.362716" y="1107.836057" x="1183.886119" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2377" height="12.396879" width="28.362716" y="1106.758067" x="1223.840554" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2378" height="12.396879" width="28.362716" y="1106.758067" x="1254.176329" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2385" stroke="null">
-     <rect id="svg_2380" height="12.396879" width="28.362716" y="1082.503304" x="1295.117293" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2381" height="12.396879" width="28.362716" y="1083.581293" x="1153.05708" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2382" height="12.396879" width="28.362716" y="1083.581293" x="1183.886119" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2383" height="12.396879" width="28.362716" y="1082.503304" x="1223.840554" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2384" height="12.396879" width="28.362716" y="1082.503304" x="1254.176329" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_2396" stroke="null">
-    <rect id="svg_2387" height="52.712865" width="44.234324" y="1069.064835" x="1331.110922" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2388" height="52.712865" width="44.234324" y="1069.2511" x="1377.784642" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2389" height="52.712865" width="32.199985" y="1069.064835" x="1424.295737" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2390" height="8.19564" width="20.165649" y="1117.058998" x="1342.115296" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2391" height="8.19564" width="20.165649" y="1117.617792" x="1430.909201" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2392" height="8.19564" width="20.165649" y="1117.058998" x="1389.927398" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2393" height="8.19564" width="20.165649" y="1070.679128" x="1430.909201" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2394" height="8.19564" width="20.165649" y="1070.865392" x="1389.43952" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2395" height="8.19564" width="20.165649" y="1070.492863" x="1342.603174" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
-   <g id="svg_2427" stroke="null">
-    <rect id="svg_2397" height="101.558474" width="69.05705" y="1028.106866" x="1513.590665" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2398" height="101.558474" width="69.05705" y="1028.064834" x="1584.620772" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <rect id="svg_2399" height="101.331004" width="32.959046" y="1028.064836" x="1656.144143" stroke-width="3" fill="#ffffff" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2400" y2="1103.793596" x2="1688.94624" y1="1105.410581" x1="1513.097401" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2401" y2="1079.538833" x2="1688.452976" y1="1080.616822" x1="1514.330562" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <line stroke-linecap="null" stroke-linejoin="null" id="svg_2402" y2="1052.050101" x2="1689.192873" y1="1052.858593" x1="1512.110872" fill-opacity="null" stroke-width="5" fill="none" stroke="#85fc85"/>
-    <g id="svg_2408" stroke="null">
-     <rect id="svg_2403" height="12.396879" width="28.362716" y="1030.220813" x="1658.610466" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2404" height="12.396879" width="28.362716" y="1031.298803" x="1516.550253" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2405" height="12.396879" width="28.362716" y="1031.298803" x="1547.379292" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2406" height="12.396879" width="28.362716" y="1030.220813" x="1587.333727" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2407" height="12.396879" width="28.362716" y="1030.220813" x="1617.669502" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2414" stroke="null">
-     <rect id="svg_2409" height="12.396879" width="28.362716" y="1054.475577" x="1658.117201" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2410" height="12.396879" width="28.362716" y="1055.553566" x="1516.056989" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2411" height="12.396879" width="28.362716" y="1055.553566" x="1546.886028" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2412" height="12.396879" width="28.362716" y="1054.475577" x="1586.840463" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2413" height="12.396879" width="28.362716" y="1054.475577" x="1617.176237" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2420" stroke="null">
-     <rect id="svg_2415" height="12.396879" width="28.362716" y="1106.758067" x="1658.117201" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2416" height="12.396879" width="28.362716" y="1107.836057" x="1516.056989" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2417" height="12.396879" width="28.362716" y="1107.836057" x="1546.886028" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2418" height="12.396879" width="28.362716" y="1106.758067" x="1586.840463" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2419" height="12.396879" width="28.362716" y="1106.758067" x="1617.176237" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-    <g id="svg_2426" stroke="null">
-     <rect id="svg_2421" height="12.396879" width="28.362716" y="1082.503304" x="1658.117201" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2422" height="12.396879" width="28.362716" y="1083.581293" x="1516.056989" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2423" height="12.396879" width="28.362716" y="1083.581293" x="1546.886028" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-     <rect id="svg_2424" height="12.396879" width="28.362716" y="1082.503304" x="1586.840463" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
-     <rect id="svg_2425" height="12.396879" width="28.362716" y="1082.503304" x="1617.176237" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
-    </g>
-   </g>
-   <g id="svg_2437" stroke="null">
-    <rect id="svg_2428" height="52.712865" width="44.234324" y="1069.064835" x="1694.110953" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2429" height="52.712865" width="44.234324" y="1069.2511" x="1740.784672" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2430" height="52.712865" width="32.199985" y="1069.064835" x="1787.295767" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#ff0000"/>
-    <rect id="svg_2431" height="8.19564" width="20.165649" y="1117.058998" x="1705.115326" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2432" height="8.19564" width="20.165649" y="1117.617792" x="1793.909231" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2433" height="8.19564" width="20.165649" y="1117.058998" x="1752.927429" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2434" height="8.19564" width="20.165649" y="1070.679128" x="1793.909231" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2435" height="8.19564" width="20.165649" y="1070.865392" x="1752.43955" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-    <rect id="svg_2436" height="8.19564" width="20.165649" y="1070.492863" x="1705.603205" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
-   </g>
+  <g id="G-1.3" stroke="null">
+   <rect id="G-1.3E" height="12.396879" width="28.362716" y="914.475549" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.3A" height="12.396879" width="28.362716" y="915.553538" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.3B" height="12.396879" width="28.362716" y="915.553538" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-1.3C" height="12.396879" width="28.362716" y="914.475549" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.3D" height="12.396879" width="28.362716" y="914.475549" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
   </g>
+  <g id="G-1.1" stroke="null">
+   <rect id="G-1.1E" height="12.396879" width="28.362716" y="966.758039" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.1A" height="12.396879" width="28.362716" y="967.836029" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.1B" height="12.396879" width="28.362716" y="967.836029" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-1.1C" height="12.396879" width="28.362716" y="966.758039" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.1D" height="12.396879" width="28.362716" y="966.758039" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-1.2" stroke="null">
+   <rect id="G-1.2E" height="12.396879" width="28.362716" y="942.503275" x="205.006328" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.2A" height="12.396879" width="28.362716" y="943.581265" x="62.946116" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.2B" height="12.396879" width="28.362716" y="943.581265" x="93.775155" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-1.2C" height="12.396879" width="28.362716" y="942.503275" x="133.72959" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-1.2D" height="12.396879" width="28.362716" y="942.503275" x="164.065364" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+ </g>
+ <g id="OV-G1" stroke="null">
+  <rect id="OV-G1-AB" height="52.712865" width="44.234324" y="929.481748" x="240.748698" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G1-CD" height="52.712865" width="44.234324" y="929.668012" x="287.422418" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G1-E" height="52.712865" width="32.199985" y="929.481748" x="333.933513" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G1-AB.2" height="8.19564" width="20.165649" y="977.475911" x="251.753072" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G1-E.2" height="8.19564" width="20.165649" y="978.034705" x="340.546977" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G1-CD.2" height="8.19564" width="20.165649" y="977.475911" x="299.565174" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G1-E.1" height="8.19564" width="20.165649" y="931.096041" x="340.546977" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G1-CD.1" height="8.19564" width="20.165649" y="931.282305" x="299.077296" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G1-AB.1" height="8.19564" width="20.165649" y="930.909776" x="252.24095" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+ </g>
+ <g id="G-3" stroke="null">
+  <rect id="svg_1450" height="101.558474" width="69.05705" y="888.042036" x="786.590725" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1451" height="101.558474" width="69.05705" y="888.000004" x="857.620831" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1452" height="101.331004" width="32.959046" y="888.000006" x="929.144202" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1453" y2="963.728766" x2="961.946299" y1="965.34575" x1="786.09746" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1454" y2="939.474003" x2="961.453035" y1="940.551992" x1="787.330622" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1455" y2="911.985271" x2="962.192932" y1="912.793763" x1="785.110931" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <g id="G-3.4" stroke="null">
+   <rect id="G-3.4E" height="12.396879" width="28.362716" y="890.155983" x="931.610525" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.4A" height="12.396879" width="28.362716" y="891.233973" x="789.550312" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.4B" height="12.396879" width="28.362716" y="891.233973" x="820.379352" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-3.4C" height="12.396879" width="28.362716" y="890.155983" x="860.333786" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.4D" height="12.396879" width="28.362716" y="890.155983" x="890.669561" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-3.3" stroke="null">
+   <rect id="G-3.3E" height="12.396879" width="28.362716" y="914.410747" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.3A" height="12.396879" width="28.362716" y="915.488736" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.3B" height="12.396879" width="28.362716" y="915.488736" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-3.3C" height="12.396879" width="28.362716" y="914.410747" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.3D" height="12.396879" width="28.362716" y="914.410747" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-3.1" stroke="null">
+   <rect id="G-3.1E" height="12.396879" width="28.362716" y="966.693237" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.1A" height="12.396879" width="28.362716" y="967.771227" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.1B" height="12.396879" width="28.362716" y="967.771227" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-3.1C" height="12.396879" width="28.362716" y="966.693237" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.1D" height="12.396879" width="28.362716" y="966.693237" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-3.2" stroke="null">
+   <rect id="G-3.2E" height="12.396879" width="28.362716" y="942.438474" x="931.11726" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.2A" height="12.396879" width="28.362716" y="943.516463" x="789.057048" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.2B" height="12.396879" width="28.362716" y="943.516463" x="819.886087" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-3.2C" height="12.396879" width="28.362716" y="942.438474" x="859.840522" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-3.2D" height="12.396879" width="28.362716" y="942.438474" x="890.176296" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+ </g>
+ <g id="G-2" stroke="null">
+  <rect id="svg_1481" height="101.558474" width="69.05705" y="888.042036" x="423.436591" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1482" height="101.558474" width="69.05705" y="888.000004" x="494.466698" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1483" height="101.331004" width="32.959046" y="888.000006" x="565.990068" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1484" y2="963.728766" x2="598.792166" y1="965.34575" x1="422.943327" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1485" y2="939.474003" x2="598.298902" y1="940.551992" x1="424.176488" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1486" y2="911.985271" x2="599.038798" y1="912.793763" x1="421.956797" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <g id="G-2.4" stroke="null">
+   <rect id="G-2.4E" height="12.396879" width="28.362716" y="890.155983" x="568.456392" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.4A" height="12.396879" width="28.362716" y="891.233973" x="426.396179" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.4B" height="12.396879" width="28.362716" y="891.233973" x="457.225218" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-2.4C" height="12.396879" width="28.362716" y="890.155983" x="497.179653" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.4D" height="12.396879" width="28.362716" y="890.155983" x="527.515428" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-2.3" stroke="null">
+   <rect id="G-2.3E" height="12.396879" width="28.362716" y="914.410747" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.3A" height="12.396879" width="28.362716" y="915.488736" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.3B" height="12.396879" width="28.362716" y="915.488736" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-2.3C" height="12.396879" width="28.362716" y="914.410747" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.3D" height="12.396879" width="28.362716" y="914.410747" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-2.1" stroke="null">
+   <rect id="G-2.1E" height="12.396879" width="28.362716" y="966.693237" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.1A" height="12.396879" width="28.362716" y="967.771227" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.1B" height="12.396879" width="28.362716" y="967.771227" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-2.1C" height="12.396879" width="28.362716" y="966.693237" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.1D" height="12.396879" width="28.362716" y="966.693237" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-2.2" stroke="null">
+   <rect id="G-2.2E" height="12.396879" width="28.362716" y="942.438474" x="567.963127" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.2A" height="12.396879" width="28.362716" y="943.516463" x="425.902914" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.2B" height="12.396879" width="28.362716" y="943.516463" x="456.731954" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-2.2C" height="12.396879" width="28.362716" y="942.438474" x="496.686388" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-2.2D" height="12.396879" width="28.362716" y="942.438474" x="527.022163" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+ </g>
+ <g id="OV-G3" stroke="null">
+  <rect id="OV-G3-AB" height="52.712865" width="44.234324" y="929.064803" x="968.110959" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G3-CD" height="52.712865" width="44.234324" y="929.251067" x="1014.784678" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G3-E" height="52.712865" width="32.199985" y="929.064803" x="1061.295773" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G3-AB.2" height="8.19564" width="20.165649" y="977.058966" x="979.115332" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G3-E.2" height="8.19564" width="20.165649" y="977.61776" x="1067.909237" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G3-CD.2" height="8.19564" width="20.165649" y="977.058966" x="1026.927435" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G3-E.1" height="8.19564" width="20.165649" y="930.679096" x="1067.909237" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G3-CD.1" height="8.19564" width="20.165649" y="930.86536" x="1026.439557" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G3-AB.1" height="8.19564" width="20.165649" y="930.492831" x="979.603211" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+ </g>
+ <g id="OV-G2" stroke="null">
+  <rect id="OV-G2-AB" height="52.712865" width="44.234324" y="929.481748" x="603.705514" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G2-CD" height="52.712865" width="44.234324" y="929.668012" x="650.379233" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G2-E" height="52.712865" width="32.199985" y="929.481748" x="696.890328" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G2-AB.2" height="8.19564" width="20.165649" y="977.475911" x="614.709887" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G2-E.2" height="8.19564" width="20.165649" y="978.034705" x="703.503792" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G2-CD.2" height="8.19564" width="20.165649" y="977.475911" x="662.52199" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G2-E.1" height="8.19564" width="20.165649" y="931.096041" x="703.503792" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G2-CD.1" height="8.19564" width="20.165649" y="931.282305" x="662.034111" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G2-AB.1" height="8.19564" width="20.165649" y="930.909776" x="615.197765" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+ </g>
+ <g id="G-4" stroke="null">
+  <rect id="svg_1532" height="101.558474" width="69.05705" y="888.106835" x="1150.590755" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1533" height="101.558474" width="69.05705" y="888.064804" x="1221.620861" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1534" height="101.331004" width="32.959046" y="888.064805" x="1293.144232" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1535" y2="963.793566" x2="1325.94633" y1="965.41055" x1="1150.09749" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1536" y2="939.538802" x2="1325.453065" y1="940.616791" x1="1151.330652" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1537" y2="912.05007" x2="1326.192962" y1="912.858562" x1="1149.110961" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <g id="G-4.4" stroke="null">
+   <rect id="G-4.4E" height="12.396879" width="28.362716" y="890.220783" x="1295.610555" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.4A" height="12.396879" width="28.362716" y="891.298772" x="1153.550342" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.4B" height="12.396879" width="28.362716" y="891.298772" x="1184.379382" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-4.4C" height="12.396879" width="28.362716" y="890.220783" x="1224.333816" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.4D" height="12.396879" width="28.362716" y="890.220783" x="1254.669591" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-4.3" stroke="null">
+   <rect id="G-4.3E" height="12.396879" width="28.362716" y="914.475546" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.3A" height="12.396879" width="28.362716" y="915.553536" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.3B" height="12.396879" width="28.362716" y="915.553536" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-4.3C" height="12.396879" width="28.362716" y="914.475546" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.3D" height="12.396879" width="28.362716" y="914.475546" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-4.1" stroke="null">
+   <rect id="G-4.1E" height="12.396879" width="28.362716" y="966.758037" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.1A" height="12.396879" width="28.362716" y="967.836026" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.1B" height="12.396879" width="28.362716" y="967.836026" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-4.1C" height="12.396879" width="28.362716" y="966.758037" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.1D" height="12.396879" width="28.362716" y="966.758037" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-4.2" stroke="null">
+   <rect id="G-4.2E" height="12.396879" width="28.362716" y="942.503273" x="1295.11729" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.2A" height="12.396879" width="28.362716" y="943.581263" x="1153.057078" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.2B" height="12.396879" width="28.362716" y="943.581263" x="1183.886117" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-4.2C" height="12.396879" width="28.362716" y="942.503273" x="1223.840552" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-4.2D" height="12.396879" width="28.362716" y="942.503273" x="1254.176326" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+ </g>
+ <g id="OV-G4" stroke="null">
+  <rect id="OV-G4-AB" height="52.712865" width="44.234324" y="929.064804" x="1331.11092" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G4-CD" height="52.712865" width="44.234324" y="929.251069" x="1377.784639" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G4-E" height="52.712865" width="32.199985" y="929.064804" x="1424.295734" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G4-AB.2" height="8.19564" width="20.165649" y="977.058967" x="1342.115293" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G4-E.2" height="8.19564" width="20.165649" y="977.617761" x="1430.909198" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G4-CD.2" height="8.19564" width="20.165649" y="977.058967" x="1389.927396" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G4-E.1" height="8.19564" width="20.165649" y="930.679097" x="1430.909198" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G4-CD.1" height="8.19564" width="20.165649" y="930.865362" x="1389.439517" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G4-AB.1" height="8.19564" width="20.165649" y="930.492832" x="1342.603172" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+ </g>
+ <g id="G-5" stroke="null">
+  <rect id="svg_1573" height="101.558474" width="69.05705" y="888.106835" x="1513.590663" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1574" height="101.558474" width="69.05705" y="888.064804" x="1584.620769" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <rect id="svg_1575" height="101.331004" width="32.959046" y="888.064805" x="1656.14414" stroke-width="3" fill="#ffffff" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1576" y2="963.793566" x2="1688.946238" y1="965.41055" x1="1513.097399" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1577" y2="939.538802" x2="1688.452973" y1="940.616791" x1="1514.33056" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_1578" y2="912.05007" x2="1689.19287" y1="912.858562" x1="1512.110869" fill-opacity="null" stroke-opacity="null" stroke-width="5" fill="none" stroke="#ffff00"/>
+  <g id="G-5.4" stroke="null">
+   <rect id="G-5.4E" height="12.396879" width="28.362716" y="890.220783" x="1658.610463" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.4A" height="12.396879" width="28.362716" y="891.298772" x="1516.550251" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.4B" height="12.396879" width="28.362716" y="891.298772" x="1547.37929" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-5.4C" height="12.396879" width="28.362716" y="890.220783" x="1587.333725" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.4D" height="12.396879" width="28.362716" y="890.220783" x="1617.669499" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-5.3" stroke="null">
+   <rect id="G-5.3E" height="12.396879" width="28.362716" y="914.475546" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.3A" height="12.396879" width="28.362716" y="915.553536" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.3B" height="12.396879" width="28.362716" y="915.553536" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-5.3C" height="12.396879" width="28.362716" y="914.475546" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.3D" height="12.396879" width="28.362716" y="914.475546" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-5.1" stroke="null">
+   <rect id="G-5.1E" height="12.396879" width="28.362716" y="966.758037" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.1A" height="12.396879" width="28.362716" y="967.836026" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.1B" height="12.396879" width="28.362716" y="967.836026" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-5.1C" height="12.396879" width="28.362716" y="966.758037" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.1D" height="12.396879" width="28.362716" y="966.758037" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+  <g id="G-5.2" stroke="null">
+   <rect id="G-5.2E" height="12.396879" width="28.362716" y="942.503273" x="1658.117199" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.2A" height="12.396879" width="28.362716" y="943.581263" x="1516.056986" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.2B" height="12.396879" width="28.362716" y="943.581263" x="1546.886025" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+   <rect id="G-5.2C" height="12.396879" width="28.362716" y="942.503273" x="1586.84046" fill-opacity="null" stroke-width="3" fill="none" stroke="#ff0000"/>
+   <rect id="G-5.2D" height="12.396879" width="28.362716" y="942.503273" x="1617.176235" fill-opacity="null" stroke-width="3" fill="none" stroke="#7f00ff"/>
+  </g>
+ </g>
+ <g id="OV-G5" stroke="null">
+  <rect id="OV-G5-AB" height="52.712865" width="44.234324" y="929.064804" x="1694.110951" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G5-CD" height="52.712865" width="44.234324" y="929.251069" x="1740.78467" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G5-E" height="52.712865" width="32.199985" y="929.064804" x="1787.295765" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#7f00ff"/>
+  <rect id="OV-G5-AB.2" height="8.19564" width="20.165649" y="977.058967" x="1705.115324" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G5-E.2" height="8.19564" width="20.165649" y="977.617761" x="1793.909229" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G5-CD.2" height="8.19564" width="20.165649" y="977.058967" x="1752.927427" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G5-E.1" height="8.19564" width="20.165649" y="930.679097" x="1793.909229" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G5-CD.1" height="8.19564" width="20.165649" y="930.865362" x="1752.439548" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+  <rect id="OV-G5-AB.1" height="8.19564" width="20.165649" y="930.492832" x="1705.603202" fill-opacity="null" stroke-width="3" fill="#ffffff" stroke="#1d1b1e"/>
+ </g>
+</g>
  </g>
 </svg>
