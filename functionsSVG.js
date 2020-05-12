@@ -38,25 +38,31 @@ function applyCSS()
     if(element == null)
         alert("No such element exists!!");
     else
-    {
-        //for particular square
-        if(element.tagName === 'g')
-        {
-            var parts = element.getElementsByTagName("*");
-            var i;
-            for(i= 0;i < parts.length;i++)
-            {
-                parts[i].style.stroke = "salmon";
-                parts[i].style["stroke-width"] = "2";
-                window.scrollTo(parts[i].getAttribute('x') - 200, parts[i].getAttribute('y') - 200);
-            }
-        }
-        //for particular path
-        else
-        {
-            element.style.stroke = "lightgreen";
-            element.style["stroke-width"] = "2";
-            window.scrollTo(element.getAttribute('x') - 200, element.getAttribute('y') - 200);
-        }
-    }
+      {
+      //for particular square
+      if(element.tagName === 'g')
+      {
+          var parts = element.getElementsByTagName("*");
+          var i;
+          for(i= 0;i < parts.length;i++)
+          {
+              //parts[i].setAttribute('class','change')
+              parts[i].classList.add('change');
+              parts[i].classList.remove('path_change');
+              //parts[i].style.stroke = "salmon";
+              //parts[i].style["stroke-width"] = "2";
+              window.scrollTo(parts[i].getAttribute('x') - 200, parts[i].getAttribute('y') - 200);
+          }
+      }
+      //for particular path
+      else
+      {
+          //element.setAttribute('class','path_change');
+          element.classList.add('path_change');
+          // element.style.stroke = "lightgreen";
+          // element.style["stroke-width"] = "2";
+
+          window.scrollTo(element.getAttribute('x') - 200, element.getAttribute('y') - 200);
+      }
+  }
 }
