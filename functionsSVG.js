@@ -27,13 +27,14 @@ function loadSVG()
     }
 }
 
+
 function applyCSS()
 {
     var square = document.getElementById("svgID").value;
     var svgObject = document.getElementById('svg_object').contentDocument;
     var svg = svgObject.getElementsByTagName('svg')[0];
     var element = svg.getElementById(square);
-        
+
     if(element == null)
         alert("No such element exists!!");
     else
@@ -47,6 +48,7 @@ function applyCSS()
             {
                 parts[i].style.stroke = "salmon";
                 parts[i].style["stroke-width"] = "2";
+                window.scrollTo(parts[i].getAttribute('x') - 200, parts[i].getAttribute('y') - 200);
             }
         }
         //for particular path
@@ -54,6 +56,7 @@ function applyCSS()
         {
             element.style.stroke = "lightgreen";
             element.style["stroke-width"] = "2";
+            window.scrollTo(element.getAttribute('x') - 200, element.getAttribute('y') - 200);
         }
     }
 }
