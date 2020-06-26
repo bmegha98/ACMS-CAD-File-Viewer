@@ -11,6 +11,31 @@ An example of the aisle with the naming convention is as shown in the picture.</
 2. Render the CAD file as HTML content.
 3. Highlight the searched aisle, rack, shelf, bin or overflow rack.
 
+## Research & Development
+### Tools Explored: 
+1. Autodesk forge
+2. Three.js npm (Open Source)
+3. WebGL API (Open Source)
+4. Zamzar (Online conversion tool)
+### File Formats Explored:
+1. DWG (for drawing)
+2. DXF (Drawing Exchange Format)
+3. STL
+4. VRML
+5. OBJ
+
+Search space was reduced to 2D DWG (suggested format), converting it into an intermediate file format (content of a DWG is unreadable), then to HTML (impractical to directly convert DWG to an HTML file).
+
+### DWG file conversion to other file formats: 
+KML, DXF, PDF, SVG(Scalable Vector Graphics)
+
+### SVG file format is the preferred choice of input:
+* It is an Extensible Markup Language-based vector image format for 2D graphics.
+* Describes an image using a text format and hence it is a readable format and its content is similar to HTML (shapes are defined using tags).
+* No third party API or tool required for conversion to HTML.
+* Can be loaded to HTML as a DOM using <object> tag, and hence we can attach JavaScript event handlers for an element, performing actions on individual elements.
+* Supported by most of the web browsers.
+
 ## How to use?
 >- Move to the current directory.
 >- Setup a localhost server.
