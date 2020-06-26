@@ -34,8 +34,8 @@ KML, DXF, PDF, SVG(Scalable Vector Graphics)
 2.  Describes an image using a text format and hence it is a readable format and its content is similar to HTML (shapes are defined using tags).
 3.  No third party API or tool required for conversion to HTML.
 4.  Can be loaded to HTML as a DOM using <object> tag, and hence we can attach JavaScript event handlers for an element, performing actions on individual elements.
-5.  Supported by most of the web browsers.
-</br>
+5.  Supported by most of the web browsers.</br>
+
 ## Implementation Details 
 * The SVG file provided by the user is manually annotated and grouped accordingly.
 * Loads SVG file (function loadSVG()) as a DOM object using the object tag on load of the window, and adds onClick listener to all the SVG elements (changes color on clicking of   the element).
