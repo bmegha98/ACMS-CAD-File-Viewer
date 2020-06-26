@@ -52,4 +52,7 @@ KML, DXF, PDF, SVG(Scalable Vector Graphics)
 ## Demo/Screenshots
 * Setting up a **local host server**
 * Working Application
+  ### Search Functionality
+  **Color** of the searched element(aisle in this case) changes to **Salmon** and **stroke width** changes to **2**.
+  ![search](images/search.png)
 
