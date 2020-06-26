@@ -30,7 +30,8 @@ Search space was reduced to 2D DWG (suggested format), converting it into an int
 ### DWG file conversion to other file formats: 
 KML, DXF, PDF, SVG(Scalable Vector Graphics)
 
-## SVG file format is the preferred choice of input:
+### SVG file format is the preferred choice of input:
+* It is an Extensible Markup Language-based vector image format for 2D graphics.
 
   
   
