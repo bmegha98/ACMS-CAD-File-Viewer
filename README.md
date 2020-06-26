@@ -5,6 +5,10 @@
 * The CAD file consists of 10 aisles, each aisle containing 30 racks and 30 overflow racks in a work station.
 * An example of the aisle with the naming convention is as shown in the picture.
 
+### Our aim:
+1. Annotate the CAD file.
+2. Render the CAD file as HTML content.
+3. Highlight the searched aisle, rack, shelf, bin or overflow rack.
 
 ## How to use?
 >- Move to the current directory.
