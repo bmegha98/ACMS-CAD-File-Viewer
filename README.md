@@ -67,3 +67,15 @@ KML, DXF, PDF, SVG(Scalable Vector Graphics)
   
   ![click](images/click.png)
 
+## Scope for Future Innovation
+The user should be able to:
+
+1. Upload the SVG file from various sources(local storage, remote servers), convert any CAD file format to SVG file format along with automating annotation of the file as per user specification.
+2. Redo, clear changes, add more styling (options to choose among different colors/ patterns, add text), add more elements(shapes that will represent bins/ racks/ packages) to the existing SVG file, along with zoom-in/ zoom-out functionality.
+3. Save the modified SVG file in different formats(pdf, jpeg, etc.).
+4. Associate database with the SVG file for the following queries:
+    * Check if the inputted bin/ rack id is occupied/ unoccupied.
+    * Get the product details present at the particular inputted bin/ rack id.
+    * Update database/ SVG file whenever an item is placed/ removed from bin/ rack.
+5. Associate each bin with weights/ size of the package, and hence use this information to find the available/ unoccupied bin for that package.
+
