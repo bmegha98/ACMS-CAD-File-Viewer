@@ -38,9 +38,9 @@ KML, DXF, PDF, SVG(Scalable Vector Graphics)
   
 ## Implementation Details 
 * The SVG file provided by the user is manually annotated and grouped accordingly.
-* Loads SVG file (function loadSVG()) as a DOM object using the object tag on load of the window, and adds onClick listener to all the SVG elements (changes color on clicking of the element).
+* Loads SVG file (function loadSVG()) as a DOM object using the object tag on load of the window, and adds onClick listener to all the SVG elements (changes color on clicking of   the element).
 * Adds CSS file for styling the DOM objects and modularizing the CSS file by adding different classes.
-* Apply CSS changes (function applyCSS()), adds class cluster_rack_shelf and bin to the element if a particular cluster/rack/shelf or bin id is entered by the user (changes color accordingly). 
+* Apply CSS changes (function applyCSS()), adds class cluster_rack_shelf and bin to the element if a particular cluster/rack/shelf or bin id is entered by the user (changes     color accordingly). 
 * Adds undo functionality using a stack, i.e., on entering a new id, previous changes are undone.
 
 ## How to use?
