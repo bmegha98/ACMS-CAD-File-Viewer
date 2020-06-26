@@ -29,12 +29,7 @@ Search space was reduced to 2D DWG (suggested format), converting it into an int
 ### DWG file conversion to other file formats: 
 KML, DXF, PDF, SVG(Scalable Vector Graphics)
 
-### SVG file format is the preferred choice of input:
-* It is an Extensible Markup Language-based vector image format for 2D graphics.
-* Describes an image using a text format and hence it is a readable format and its content is similar to HTML (shapes are defined using tags).
-* No third party API or tool required for conversion to HTML.
-* Can be loaded to HTML as a DOM using <object> tag, and hence we can attach JavaScript event handlers for an element, performing actions on individual elements.
-* Supported by most of the web browsers.
+
   
 ## Implementation Details 
 * The SVG file provided by the user is manually annotated and grouped accordingly.
