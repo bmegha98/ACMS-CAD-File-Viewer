@@ -54,5 +54,16 @@ KML, DXF, PDF, SVG(Scalable Vector Graphics)
 * Working Application
   ### Search Functionality
   **Color** of the searched element(aisle in this case) changes to **Salmon** and **stroke width** changes to **2**.
+  
   ![search](images/search.png)
+  
+  ### Hover Functionality
+  **Color** of the hovered element(rack in this case) changes to **Sky Blue** and **stroke width** changes to **2**.
+  
+  ![hover](images/hover.png)
+  
+  ### Click Functionality
+  **Color** of the clicked element(rack in this case) changes to **Red** and **stroke width** changes to **2**.
+  
+  ![click](images/click.png)
 
