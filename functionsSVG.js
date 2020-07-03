@@ -34,7 +34,7 @@ function loadSVG() {
     var object = document.getElementById('svg_object');
     var svgObject = object.contentDocument;
     
-    var style = svgObject.createElementNS("http://www.w3.org/2000/svg", "style");
+    var style = svgObject.createElementNS("http://www.w3.org/2000/svg", "style");           //To create an element style
     style.textContent = '@import url("cssSVG.css");';
 
     var svg = svgObject.getElementsByTagName('svg')[0];
