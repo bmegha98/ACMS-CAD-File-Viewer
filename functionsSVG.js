@@ -101,7 +101,7 @@ function applyCSS(){
             for(i = 0; i < parts.length; i++){
 
                 parts[i].classList.add("cluster_rack_shelf");
-                parts[i].classList.remove("bin");
+               //parts[i].classList.remove("bin");
                 
                 window.scrollTo(parts[i].getAttribute('x') - 200, parts[i].getAttribute('y') - 200);
             }
